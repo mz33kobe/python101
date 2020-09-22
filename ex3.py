@@ -1,13 +1,12 @@
 hrs = input("Enter Hours: ")
-rph = input("Enter rate per hour: ")
 flhrs = float(hrs)
+rph = input("Enter rate per hour: ")
 flrph = float(rph)
 
 if (flhrs > 40) :
     #Print("Overtime")
     flhours = float(40.0)
-    flrateph = float(10.50)
-    newvar = flhours * flrateph
+    newvar = flhours * flrph
     anothervar = (flhrs - 40.0) * (1.5 * flrph)
     ans = newvar + anothervar
 else:
