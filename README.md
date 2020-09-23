@@ -1,5 +1,5 @@
 # python101
 Simple python scripts to do mundane stuff, etcetc. e.g Multiplication. I know, baby steps
-<p align="center">
-<img src="https://github.com/mz33kobe/python101/blob/master/magoe.png "Coded by Ndekere ^_^"/>
-</p>
+
+<img src="img/magoe.png" alt="Coded by Ndekere ^_^"/>
+# My cool project and above is Some work done by my hands!
