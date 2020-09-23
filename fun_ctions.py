@@ -1,7 +1,7 @@
-print("xoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxxoxoxoxoxoxo")
-print("o===============KENYAN MUSIC OOH!!==================x")
-print("x=============Magoe by Zzero Sufuri=================o")
-print("o=====================Enjoy!!=======================x")
+print("xoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxox")
+print("o===============KENYAN MUSIC OOH!!==================o")
+print("x=============Magoe by Zzero Sufuri=================x")
+print("o=====================Enjoy!!=======================o")
 print("xoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxoxox")
 
 def sample_function() :
